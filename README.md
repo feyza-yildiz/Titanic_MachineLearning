@@ -24,23 +24,20 @@ Eksik veriler doldurulmuş, kategorik değişkenler sayısal değerlere dönüş
 7. Gözetimli Öğrenme:
 Bu projede gözetimli öğrenme yöntemi olarak lojistik regresyon kullanılarak, yolcuların hayatta kalma durumlarını tahmin etmek amaçlanmıştır.
 
-
-a. Lojistik Regresyon (Logistic Regression)
+  a. Lojistik Regresyon (Logistic Regression)
 Lojistik regresyon, sınıflandırma problemleri için yaygın olarak kullanılan bir gözetimli öğrenme algoritmasıdır. Bu projede, Titanic yolcularının hayatta kalma olasılıklarını tahmin etmek için kullanılmıştır.
 Veri seti eğitim ve test olarak bölünmüştür.
 Model, eğitim verileri ile eğitilmiş ve test verileri ile doğrulama yapılmıştır.
 Model Doğruluğu: %65.35
 Performans metrikleri olarak doğruluk skoru, karışıklık matrisi, kesinlik, duyarlılık ve F1 skoru gibi metrikler hesaplanmıştır.
 
-
 5. Gözetimsiz Öğrenme
 Gözetimsiz öğrenme yöntemlerinden K-Means Kümeleme algoritması kullanılarak yolcuların belirli özelliklerine göre gruplandırılması yapılmıştır.
 
-a. K-Means Kümeleme (K-Means Clustering)
+  a. K-Means Kümeleme (K-Means Clustering)
 K-Means algoritması, verileri belirli sayıda kümeye ayırarak veri içindeki gizli kalıpları ortaya çıkarmayı amaçlar. Bu projede, yolcuların özelliklerine göre 2 kümeleme yapılmıştır.
 PCA (Principal Component Analysis) yöntemi ile boyut indirgeme yapılarak verilerin iki boyutta görselleştirilmesi sağlanmıştır.
 Kümeleme sonuçları görsel olarak analiz edilmiştir.
-
 
 6. Model Değerlendirme
 Gözetimli öğrenme modelleri doğruluk, kesinlik, duyarlılık ve F1 skoru gibi performans metrikleri ile değerlendirilmiştir.
