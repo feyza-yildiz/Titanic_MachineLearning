@@ -4,7 +4,7 @@ Titanic Veri Seti - Makine Öğrenmesi Projesi
 Proje sahipleri : Muhammed Fatih Toprak-Feyza Yıldız 
 
 Bu projede Titanic veri seti üzerinde gözetimli ve gözetimsiz öğrenme teknikleri uygulanmıştır. Projenin amacı, makine öğrenmesi tekniklerini kullanarak Titanic yolcularının hayatta kalıp kalmadığını tahmin etmek ve veri içindeki gizli kalıpları keşfetmektir.
-Projenin kaggle linki : https://www.kaggle.com/code/feyzayildiz/titanic-ml/edit
+Projenin kaggle linki : https://www.kaggle.com/code/feyzayildiz/titanic-ml
 
 
 Veri Seti Seçimi:
